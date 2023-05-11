@@ -1,0 +1,21 @@
+.icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(27, 27, 27);
+  padding: 60px;
+  height: 100px;
+  position: relative;
+}
+
+.icons-info p {
+  position: absolute;
+  left: 520px;
+  color: white;
+  font-weight: 30px;
+}
+
+.icons-info i {
+
+  font-size: 30px;
+}
